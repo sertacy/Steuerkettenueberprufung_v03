@@ -1,0 +1,1579 @@
+lalalalalala
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+19.06.2007-15:29:59-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Farblaschenfehler Station 1
+19.06.2007-15:35:31-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:35:31-Bolzenhoehenfehler Station 2
+19.06.2007-15:35:31-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:35:31-Kamera Laschenfehler Station 4
+19.06.2007-15:35:31-Kamera Rollenfehler Station 4
+19.06.2007-15:37:22-Farblaschenfehler Station 1
+19.06.2007-15:37:23-Laschenabstandfehler (Kettenhoehe) Station 2
+19.06.2007-15:37:23-Bolzenhoehenfehler Station 2
+19.06.2007-15:37:23-Distanzfehler (Kettenhoehe) Station 3
+19.06.2007-15:37:23-Kamera Laschenfehler Station 4
+19.06.2007-15:37:23-Kamera Rollenfehler Station 4
+asfdlkjalsjdfka
+alöksdjföasdkjföasdkfa
+alfkdsjal
+afdasfas
+asfdaskldjflaskdjf
+aaaaaaaaaaaaaaaaaaa
+aaaaaaaaa
+a19.06.2007-15:41:02-Farblaschenfehler Station 1
+19.06.2007-15:41:50-Farblaschenfehler Station 1
+19.06.2007-15:43:41-Farblaschenfehler Station 1
+19.06.2007-15:43:41-Farblaschenfehler Station 1
+19.06.2007-15:43:41-Farblaschenfehler Station 1
+19.06.2007-15:43:41-Farblaschenfehler Station 1
+19.06.2007-15:43:41-Farblaschenfehler Station 1
+19.06.2007-15:43:41-Farblaschenfehler Station 1
+19.06.2007-15:43:41-Farblaschenfehler Station 1
+19.06.2007-15:43:41-Farblaschenfehler Station 1
+19.06.2007-15:43:41-Farblaschenfehler Station 1
+19.06.2007-15:43:41-Farblaschenfehler Station 1
+19.06.2007-15:43:41-Farblaschenfehler Station 1
+19.06.2007-15:43:41-Farblaschenfehler Station 1
+19.06.2007-15:43:41-Farblaschenfehler Station 1
+19.06.2007-15:43:42-Farblaschenfehler Station 1
+19.06.2007-15:43:42-Farblaschenfehler Station 1
+19.06.2007-15:43:42-Farblaschenfehler Station 1
+19.06.2007-15:43:42-Farblaschenfehler Station 1
+19.06.2007-15:43:42-Farblaschenfehler Station 1
+19.06.2007-15:43:42-Farblaschenfehler Station 1
+19.06.2007-15:44:04-Farblaschenfehler Station 1
+19.06.2007-15:44:09-Farblaschenfehler Station 1
+19.06.2007-15:44:09-Farblaschenfehler Station 1
+19.06.2007-15:44:09-Farblaschenfehler Station 1
+19.06.2007-15:44:09-Farblaschenfehler Station 1
+19.06.2007-15:45:11-Farblaschenfehler Station 1
+blabla
+21.06.2007-23:37:25-Kamera Fehler AL Oben Station 4
+21.06.2007-23:38:51-Kamera Fehler AL Unten Station 4
+21.06.2007-23:39:14-Kamera Fehler IL Oben Station 4
+21.06.2007-23:40:04-Kamera Fehler IL Unten Station 4
+21.06.2007-23:40:25-Kamera Fehler Rolle Links Station 4
+21.06.2007-23:40:54-Kamera Fehler Rolle Rechts Station 4
+21.06.2007-23:41:49-Farblaschenfehler Station 1

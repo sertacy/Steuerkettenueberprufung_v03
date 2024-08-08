@@ -1,0 +1,15 @@
+programmierer : sertac yilmaz
+changelog:
+pw mit sternen
+bugfix flachenspeicher
+bugfix falsches vorlageoben.jpg bild in CE version
+aussschusskette station hinzugefügt (ohne ST_KetteRaus meldung)
+ohne ST_KetteRaus meldung hinzugefuegt
+Versioninfo ins menü eingefuegt
+ausschussbehaelter schliessen und öffnen über buttons entfernt.
+ausschussbehaelter öffnen über pw schliessen über sps miro
+dummyquit text geändert zu Segment verständigen
+nach dummyquit ok gleich artikelnummer und kettentype wechsel gefixt.
+Fehlerschreiber bei dummyprüfung als dummyprüfung editiert.
+nach dummyquit-> mydialog.obj.disposed bug im FPassw Klasse gefixt!
+ST_AnfDummyPruefung Meldung hinzugefügt.

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{CB4CE8C6-1BDB-4DC7-A4D3-65A1999772F8}") = "cexptest", "cexptest.vbdproj", "{59315D16-5A78-491D-9C28-1E7618699EFA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{59315D16-5A78-491D-9C28-1E7618699EFA}.Debug.ActiveCfg = Debug|Windows CE
+		{59315D16-5A78-491D-9C28-1E7618699EFA}.Debug.Build.0 = Debug|Windows CE
+		{59315D16-5A78-491D-9C28-1E7618699EFA}.Debug.Deploy.0 = Debug|Windows CE
+		{59315D16-5A78-491D-9C28-1E7618699EFA}.Release.ActiveCfg = Release|Windows CE
+		{59315D16-5A78-491D-9C28-1E7618699EFA}.Release.Build.0 = Release|Windows CE
+		{59315D16-5A78-491D-9C28-1E7618699EFA}.Release.Deploy.0 = Release|Windows CE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
